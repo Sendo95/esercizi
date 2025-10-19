@@ -1,0 +1,63 @@
+Buongiorno Mirco,
+
+sono Jacopo Bertone, Recruiter del dipartimento HR di ISCS, ci siamo sentiti al telefono.
+
+Le scrivo per confermarle il colloquio della giornata di Mercoledì 24 Febbraio alle ore 13.30 su Microsoft Teams, troverà gli inviti quanto prima sul suo indirizzo email.
+
+Le chiedo per favore di rispondere a quest’email riportando anche una copia aggiornata del suo CV, preferibilmente in formato PDF.
+
+Come ci siamo anticipati al telefono, entro la data del nostro colloquio la invito a svolgere un esercizio di programmazione eseguibile con qualsiasi tipo di linguaggio (a sua discrezione)
+
+L’esercizio di programmazione dovrebbe occupare circa due ore di tempo e può avvalersi di qualsiasi supporto (manuali, internet ecc..), come se fosse sul luogo di lavoro. 
+
+Queste sono le regole alle quali le chiediamo di attenersi scrupolosamente:
+
+Si tratta di due esercizi si possono svolgere in qualsiasi linguaggio e puoi usare qualsiasi libreria, anche di terze parti, con la sola esclusione di librerie e prodotti commerciali. 
+
+L'esercizio deve includere le interfacce uomo macchina sia per fare input sia per visualizzare l'output.
+
+L'esercizio deve includere anche gli unit test ed eventuali commenti se ritenuti opportuni. 
+
+L'esercizio deve essere svolto con lo scopo di potere riutilizzare il codice in toto o in parte.
+
+L'esercizio deve prevedere la gestione degli errori.
+
+L'esercizio deve essere fatto con approccio ad oggetti e non procedurale.
+
+Il tutto deve essere spiegato in un file da battezzare "read me first": alla fine le chiediamo di copiare il codice sorgente in un file TXT e di inviarlo in allegato come risposta a quest’email, il nostro direttore tecnico provvederà a visionarlo quanto prima.
+
+ 
+
+Nel caso in cui la traccia risulti ambigua può decidere in autonomia quale opzione scegliere, a condizione che venga tracciata la scelta in un commento o in annotazioni da allegare all'esercizio.
+
+Non c'è nessun vincolo al numero di progetti, moduli o componenti da usare o implementare.
+
+ 
+
+Come le accennavo al telefono, le allego anche l’informativa sulla privacy: le chiedo la cortesia di allegare nella risposta a quest’email una copia di quest’informativa firmata.
+
+ 
+
+ 
+
+Qualora avesse bisogno di ulteriori informazioni o avesse necessità di comunicarci cambiamenti, può fare riferimento ai miei recapiti.
+
+A presto
+
+
+
+
+
+
+* Dati meteo
+In weather.dat ci sono dei dati con rilevazioni meteorologiche. La prima colonna contiene 
+il giorno del mese, mentre la seconda e la terza contengono rispettivamente la temperatura
+massima e minima per quel giorno. Scrivere un programma che dato il file in input ritorni
+il giorno con l'escursione termica pi� piccola.
+
+* Lega football
+Il file football.dat contiene i risultati della premier league inglese. Le colonne con 
+etichetta "F" e "A" contengono il numero totale di goal segnati e subiti da ogni squadra
+nella stagione. Ad esempio l'Arsenal ha segnato 79 goal (F) e ne ha subiti 36 (A).
+Scrivere un programma che dato il file in input ritorni la squadra con la minor differenza
+fra goal segnati e subiti.
